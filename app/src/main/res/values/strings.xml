@@ -6,4 +6,5 @@
     <string name="body">body</string>
     <string name="action_submit">Submit</string>
     <string name="portada">Portada</string>
+    <string name="img_background">Background.jpg</string>
 </resources>
