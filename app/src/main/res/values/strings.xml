@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="title_enter_post">Search</string>
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="action_submit">Submit</string>
+    <string name="portada">Portada</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <ImageView
+        android:id="@+id/ivThumbnail"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="10dp"
+        android:scaleType="centerCrop"
+        android:background="#dcdcdc"
+        android:padding="1dp"
+        android:cropToPadding="true"
+        android:contentDescription="@string/portada"
+        />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/ivThumbnail"
+        tools:text="dadawdawdwd" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_below="@+id/tvTitle"
+        android:layout_toEndOf="@+id/ivThumbnail"
+        tools:text="dfd" />
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/tvDescription"
+        android:layout_toEndOf="@+id/ivThumbnail"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="180dp"
+        tools:text="%s €" />
+
+</RelativeLayout>
