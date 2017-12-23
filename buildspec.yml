@@ -1,6 +1,9 @@
 version: 0.2
 
 phases:
+  prebuild:
+      - echo 8933bad161af4178b1185d1a37fbf41ea5269c55 > $ANDROID_HOME/licenses/android-sdk-license
+      - /opt/android-sdk-linux/tools/android update sdk --no-ui
   build:
     commands:
       - ./gradlew assembleDebug --stacktrace 
