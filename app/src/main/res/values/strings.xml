@@ -7,4 +7,5 @@
     <string name="action_submit">Submit</string>
     <string name="portada">Portada</string>
     <string name="img_background">Background.jpg</string>
+    <string name="title_activity_splash">SplashActivity</string>
 </resources>
