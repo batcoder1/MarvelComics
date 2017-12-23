@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - ./gradlew assembleDebug
+      - ./gradlew assembleDebug --stacktrace 
 artifacts:
   files:
     - app/build/outputs/apk/debug/app-debug.apk
