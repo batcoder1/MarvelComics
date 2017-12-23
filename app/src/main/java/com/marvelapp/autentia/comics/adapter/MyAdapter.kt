@@ -51,7 +51,8 @@ class MyAdapter(val comics: ArrayList<Comic>) : RecyclerView.Adapter<MyAdapter.V
             this.comic = item
             title.text = item.title
             description.text = item.description
-            price.text = item.prices[0].price.toString()
+            val amount = item.prices[0].price.toString() + " €"
+            price.text =  amount
 
             var img = item.thumbnail.path + '.' + item.thumbnail.extension
             thumbnail.loadImg(img)
