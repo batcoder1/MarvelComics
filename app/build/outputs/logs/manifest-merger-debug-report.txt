@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-kotlin-2.0.0.aar/79dcdd423d0aeb6215c0cc33e353fe08/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-kotlin-2.0.0.aar/ebd025214af00d2d49c722b8c3fd7a09/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-kotlin-2.0.0.aar/f82feda98f1066b7cc5ef3ebb77e10fa/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/eb93e599c5d298a0d270ef4b41c92ccd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-2.0.0.aar/f26c5c3c54fad771e704a157a1fd0f0d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-2.0.0.aar/abd8aed971ef887d497af0732d0746fe/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-2.0.0.aar/b47ce177dbef82faeb37e5cadb548010/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/2a595d5ed7337e0ae21d819451a32c1d/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/kike/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/30d31b66c8141e6035749ae961fbe10d/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:design:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b380d835294857756bb36ca9a9f79c85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/df5d3a6ca097cb3a4f6c3173df9d3aba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7d948a4f2cc1ae6db38a362006adb6ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b5402f7729908229440c33f7214d1402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6755421ed7b0de6432927e5c94e7ebeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7df5c8c0197b2fd637c5832537ca3295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b3694943ff0992b1ef51a0324bf0e560/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f6e504bc1562d9697d74be1bd1af9f9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb83b981b10822f3ee0e830acc3902e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dcdde7beca64ea1a33d01f72d6ac79f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cfbd496826909812b0ea89398119ef8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fd879db9822cb8d32cae4b37bfe0cf0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/68c6f3a7a667909e859c2a467fdc3ac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.0] /home/kike/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.0.aar/20a08fe33603622de648397d2f07d81c/AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04f7927eb18138688eae080048a6ab04/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kike/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/845f4748768be580dd2295aacee5de33/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:8:22-73
+application
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.0] /home/kike/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.0.aar/20a08fe33603622de648397d2f07d81c/AndroidManifest.xml:4:6-47
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.0] /home/kike/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.0.aar/20a08fe33603622de648397d2f07d81c/AndroidManifest.xml:4:6-47
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04f7927eb18138688eae080048a6ab04/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04f7927eb18138688eae080048a6ab04/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.marvelapp.autentia.comics.SplashActivity
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:17:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.marvelapp.autentia.comics.MainActivity
+ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-kotlin-2.0.0.aar/79dcdd423d0aeb6215c0cc33e353fe08/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-kotlin-2.0.0.aar/79dcdd423d0aeb6215c0cc33e353fe08/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-kotlin-2.0.0.aar/ebd025214af00d2d49c722b8c3fd7a09/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7-ko@@ -0,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project version="4"> 
+  <component name="RunConfigurationProducerService"> 
+    <option name="ignoredProducers"> 
+      <set> 
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.AllInPackageGradleConfigurationProducer" /> 
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestClassGradleConfigurationProducer" /> 
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestMethodGradleConfigurationProducer" /> 
+      </set> 
+    </option> 
+  </component> 
+</project>
+ \ No newline at end of file 
+tlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-kotlin-2.0.0.aar/ebd025214af00d2d49c722b8c3fd7a09/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-kotlin-2.0.0.aar/f82feda98f1066b7cc5ef3ebb77e10fa/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-kotlin-2.0.0.aar/f82feda98f1066b7cc5ef3ebb77e10fa/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/eb93e599c5d298a0d270ef4b41c92ccd/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-kotlin-2.0.0.aar/eb93e599c5d298a0d270ef4b41c92ccd/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-2.0.0.aar/f26c5c3c54fad771e704a157a1fd0f0d/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-support-v4:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-support-v4-2.0.0.aar/f26c5c3c54fad771e704a157a1fd0f0d/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-2.0.0.aar/abd8aed971ef887d497af0732d0746fe/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-appcompat-v7-2.0.0.aar/abd8aed971ef887d497af0732d0746fe/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-2.0.0.aar/b47ce177dbef82faeb37e5cadb548010/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-2.0.0.aar/b47ce177dbef82faeb37e5cadb548010/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/2a595d5ed7337e0ae21d819451a32c1d/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /home/kike/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/2a595d5ed7337e0ae21d819451a32c1d/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/kike/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/30d31b66c8141e6035749ae961fbe10d/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/kike/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/30d31b66c8141e6035749ae961fbe10d/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b380d835294857756bb36ca9a9f79c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b380d835294857756bb36ca9a9f79c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/df5d3a6ca097cb3a4f6c3173df9d3aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/df5d3a6ca097cb3a4f6c3173df9d3aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7d948a4f2cc1ae6db38a362006adb6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7d948a4f2cc1ae6db38a362006adb6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b5402f7729908229440c33f7214d1402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b5402f7729908229440c33f7214d1402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6755421ed7b0de6432927e5c94e7ebeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6755421ed7b0de6432927e5c94e7ebeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7df5c8c0197b2fd637c5832537ca3295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7df5c8c0197b2fd637c5832537ca3295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b3694943ff0992b1ef51a0324bf0e560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/b3694943ff0992b1ef51a0324bf0e560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f6e504bc1562d9697d74be1bd1af9f9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f6e504bc1562d9697d74be1bd1af9f9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb83b981b10822f3ee0e830acc3902e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/cb83b981b10822f3ee0e830acc3902e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dcdde7beca64ea1a33d01f72d6ac79f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dcdde7beca64ea1a33d01f72d6ac79f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cfbd496826909812b0ea89398119ef8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/cfbd496826909812b0ea89398119ef8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fd879db9822cb8d32cae4b37bfe0cf0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fd879db9822cb8d32cae4b37bfe0cf0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/68c6f3a7a667909e859c2a467fdc3ac0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/68c6f3a7a667909e859c2a467fdc3ac0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04f7927eb18138688eae080048a6ab04/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kike/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04f7927eb18138688eae080048a6ab04/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kike/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/845f4748768be580dd2295aacee5de33/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/kike/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/845f4748768be580dd2295aacee5de33/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		ADDED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12 reason: com.amazonaws.mobile.auth.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12 reason: com.amazonaws.mobile.auth.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/kike/workspace/MarvelComics/app/src/main/AndroidManifest.xml:2:1-28:12 reason: com.amazonaws.mobile.auth.core requested WRITE_EXTERNAL_STORAGE 
